@@ -1,0 +1,12 @@
+---
+Title: "&6Welcome"
+#Main Title (Variables: & = §, $p = player the title is sent to.
+Subtitle: "&e%p"
+#Text under title
+Length: "25"
+#How long the title lasts after its given to the player.
+FadeIn: "5"
+#How long it takes to start the title
+FadeOut: "5"
+#How long it takes the title to fade completely
+...
